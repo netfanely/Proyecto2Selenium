@@ -25,7 +25,7 @@ src/
         ├── runners/               # Runner con configuración de Cucumber
         ├── pages/                 # Page Objects (POM)
         └── utils/                 # Utilitarios (esperas, config, hooks, etc.)
-
+```
 ## 📂 Ejecución del proyecto
 
 ### Prerequisitos:
