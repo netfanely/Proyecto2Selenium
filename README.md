@@ -16,14 +16,15 @@ Este proyecto realiza pruebas automatizadas de la funcionalidad de **login** en 
 
 ## 🧱 Estructura del proyecto
 
-"""
-src/test/java/
-├── features/ # Archivos .feature con los escenarios de Cucumber
-├── stepdefinitions/ # Definición de pasos de Cucumber
-├── runners/ # Runner con configuración de Cucumber
-├── pages/ # Page Objects (POM)
-├── utils/ # Utilitarios (esperas, config, hooks, etc.)
-"""
+```text
+src/
+└── test/
+    └── java/
+        ├── features/              # Archivos .feature con los escenarios de Cucumber
+        ├── stepdefinitions/       # Definición de pasos de Cucumber
+        ├── runners/               # Runner con configuración de Cucumber
+        ├── pages/                 # Page Objects (POM)
+        └── utils/                 # Utilitarios (esperas, config, hooks, etc.)
 
 ## 📂 Ejecución del proyecto
 
